@@ -29,4 +29,4 @@ jobs:
           git config user.name 'anisuzzamanbabla'
           git config user.email 'anisuzzamanbabla@gmail.com'
           publish_branch: gh-pages
-        #   cname: example.com
+        #   cname: example.coms
